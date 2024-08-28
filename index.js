@@ -20,12 +20,12 @@ menuEl.addEventListener("click", () => {
 // Text Typing
 var typed = new Typed(".text-type", {
   strings: [
-    "Web Developer",
-    "Java Developer",
-    "Programmer",
-    "Open Source Contributor",
-    "Blogger",
-    "Youtuber",
+    "Assistant Professor",
+    "Ethical Hacker",
+    "Digital Forensic Analyst",
+    "Penetration Tester",
+    "Researcher",
+    "Mentor",
   ],
   typeSpeed: 100,
   // backSpeed: 150,
