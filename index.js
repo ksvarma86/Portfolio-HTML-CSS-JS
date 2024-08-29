@@ -106,7 +106,7 @@ const scrollRev = ScrollReveal({
 scrollRev.reveal(".home-wrapper h2", { delay: 300 });
 scrollRev.reveal(".home-wrapper p", { delay: 300 });
 scrollRev.reveal(".home-wrapper .home-logo img", { delay: 600 });
-scrollRev.reveal(".home-wrapper .fa-instagram", { delay: 600 });
+scrollRev.reveal(".home-wrapper .fa-instagram", { delay: 0 });
 scrollRev.reveal(".home-wrapper .fa-blogger", { delay: 700 });
 scrollRev.reveal(".home-wrapper .fa-linkedin", { delay: 800 });
 scrollRev.reveal(".home-wrapper .fa-youtube", { delay: 900 });
