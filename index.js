@@ -99,7 +99,7 @@ scrollToTopEl.addEventListener("click", goToTop);
 const scrollRev = ScrollReveal({
   origin: "top",
   distance: "100px",
-  duration: 0,
+  duration: 600,
   reset: true,
 });
 
